@@ -16,24 +16,4 @@ The objective of the game is to accumulate as many points as possible by eating 
 
 Near the corners of the maze are four flashing energizers that allow Pac-Man to eat the ghosts and earn bonus points. The enemies turn deep blue, reverse direction and move away from Pac-Man, and usually move more slowly. When an enemy is eaten, its eyes return to the center ghost box where the ghost is regenerated in its normal color. The bonus score earned for eating a blue ghost increases exponentially for each consecutive ghost eaten while a single energizer is active: a score of 200 points is scored for eating one ghost, 400 for eating a second ghost, 800 for a third, and 1600 for the fourth. This cycle restarts from 200 points when Pac-Man eats the next energizer. Blue enemies flash white to signal that they are about to return to their normal color and become dangerous again; the length of time the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses. In later stages, the enemies begin flashing immediately after an energizer is consumed, without a blue phase; starting at stage nineteen, the ghosts do not become edible at all, but still reverse direction.
 
-There are fruits that appear twice per level, directly below the center ghost box; eating one gives 100 to 5,000 points. This table lists each stage, the type and value of the fruit that appears, how long the ghosts are blue when a energizer is eaten, and how many times the ghosts flash before returning to normal:
-Stage 	Fruit 	Fruit points 	Ghost Blue Time (seconds) 	Flashes before Blue Time ends
-1 	Cherry 	100 	6 	5
-2 	Strawberry 	300 	5 	5
-3 	Orange 	500 	4 	5
-4 	Orange 	500 	3 	5
-5 	Apple 	700 	2 	5
-6 	Apple 	700 	5 	5
-7 	Melon 	1000 	2 	5
-8 	Melon 	1000 	2 	5
-9 	Galaxian 	2000 	1 	3
-10 	Galaxian 	2000 	5 	5
-11 	Bell 	3000 	2 	5
-12 	Bell 	3000 	1 	3
-13 	Key 	5000 	1 	3
-14 	Key 	5000 	3 	5
-15 	Key 	5000 	1 	3
-16 	Key 	5000 	1 	3
-17 	Key 	5000 	0 	–
-18 	Key 	5000 	1 	3
-19 	Key 	5000 	0 	
+There are fruits that appear twice per level, directly below the center ghost box; eating one gives 100 to 5,000 points. This table lists each stage, the type and value of the fruit that appears, how long the ghosts are blue when a energizer is eaten, and how many times the ghosts flash before returning to normal.
